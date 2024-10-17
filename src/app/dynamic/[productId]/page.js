@@ -1,0 +1,3 @@
+export default function Product({params}){
+    return <h1>Details about product {params.productId} </h1>
+}
